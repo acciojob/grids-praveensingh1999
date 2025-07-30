@@ -1,5 +1,5 @@
 
 /* Your CSS Code here. */
 div.row{
-	justify-content: between;
+	justify-content: space-between;
 }
